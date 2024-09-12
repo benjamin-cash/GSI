@@ -1,4 +1,4 @@
 [submodule "fix"]
   path = fix
-  url = https://github.com/NOAA-EMC/GSI-fix
-  branch = develop
+  url = https://github.com/benjamin-cash/GSI-fix
+  branch = frontera_container
